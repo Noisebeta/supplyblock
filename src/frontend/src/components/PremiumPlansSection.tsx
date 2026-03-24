@@ -38,7 +38,7 @@ const plans = [
 
 export default function PremiumPlansSection() {
   return (
-    <section id="plans" className="py-24 relative">
+    <section id="premium" className="py-24 relative">
       <div
         className="absolute inset-0 pointer-events-none"
         style={{

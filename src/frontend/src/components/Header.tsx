@@ -7,6 +7,7 @@ const navLinks = [
   { label: "Dashboard", href: "#dashboard" },
   { label: "Support", href: "#support" },
   { label: "Future", href: "#future" },
+  { label: "Premium", href: "#premium" },
 ];
 
 export default function Header() {
