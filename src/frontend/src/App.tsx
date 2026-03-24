@@ -6,6 +6,7 @@ import FutureScopeSection from "./components/FutureScopeSection";
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import HowItWorksSection from "./components/HowItWorksSection";
+import PremiumPlansSection from "./components/PremiumPlansSection";
 import ProblemSection from "./components/ProblemSection";
 import SmartSupportSection from "./components/SmartSupportSection";
 import SolutionSection from "./components/SolutionSection";
@@ -40,6 +41,7 @@ function App() {
         <SmartSupportSection />
         <DashboardSection />
         <FutureScopeSection />
+        <PremiumPlansSection />
       </main>
       <Footer />
     </div>
